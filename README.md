@@ -1,6 +1,7 @@
 # SYLCodeLanguage
 
 
+![SYL Logo](https://raw.githubusercontent.com/ScatyTube/SYLCodeLanguage/main/SYLLogo.svg)
 
 
 
